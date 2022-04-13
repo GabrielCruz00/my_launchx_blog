@@ -1,21 +1,15 @@
 ---
-title: 'About me'
+title: 'Yo soy...'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
-## Who am I
+### ¡Hola!
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Mi nombre es **Gabriel Cruz**. Y aquí podrás leer un poco a cerca de mi. 
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Actualmente resido en la Ciudad de México. 
+Estudio ***Ingeniería Eléctrica Electrónica*** en la **Facultad de Estudios Superiores Aragón**, en el Estado de México.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Mi carrera me ha brindado un acercamiento a la tecnología con ayuda de materías como *Diseño Lógico*, *Microcontroladores y Microporcesadores*, *Diseño de Sistemas con Microprocesadores*, entre otras. Y es gracias a este acercamiento que hoy me encuentro a bordo de una *increíble misión*...  ***Launch X***
